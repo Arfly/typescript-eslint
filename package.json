@@ -1,0 +1,8 @@
+{
+  "name": "typescript-eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Arfly/typescript-eslint.git",
+  "author": "fei.han <arfly33@gmail.com>",
+  "license": "MIT"
+}
